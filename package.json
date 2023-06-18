@@ -1,6 +1,6 @@
 {
   "name": "@allan.pereira.dev/trace.moe",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "./dist/main.js",
   "type": "commonjs",
   "scripts": {
